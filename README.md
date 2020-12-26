@@ -83,4 +83,5 @@ In caso si voglia inserire una nuova funzione o si voglia segnalare un problema 
  - Operazione effettuata
  - Cosa ci si aspetta dall'operazione
  - Cosa in realtà è successo nell'applicazione
+###
 Ad ogni segnalazione verrà assegnatio un livello di urgenza. Può essere che passi diverso tempo prima che siano aggiunte funzionalità non necessarie a tutti gli utenti. Ricordo inoltre che questo programma è in fase di sviluppo e non è completo.
