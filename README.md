@@ -76,3 +76,11 @@ La rimozione di un comune è annullabile, infatti quando il programma elimina il
 il pdf nella cartella "Registri territori" in un formato .old. Per annullarla basterà rinominare il file in .pdf e 
 riavviare il programma. Altrimenti se si vuole completare la rimozione basterà eliminare il file .old, senza 
 possibilità di ripristino.
+
+## Informazioni ulteriori
+In caso si voglia inserire una nuova funzione o si voglia segnalare un problema si consiglia di scriverlo nella sezione "Issues" di questa pagina. E' preferibile, nel descrivere il problema o la funzione che si desidera richiedere, inserire queste informazioni:
+ - Versione applicazione installata
+ - Operazione effettuata
+ - Cosa ci si aspetta dall'operazione
+ - Cosa in realtà è successo nell'applicazione
+Ad ogni segnalazione verrà assegnatio un livello di urgenza. Può essere che passi diverso tempo prima che siano aggiunte funzionalità non necessarie a tutti gli utenti. Ricordo inoltre che questo programma è in fase di sviluppo e non è completo.
