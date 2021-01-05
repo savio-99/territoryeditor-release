@@ -64,8 +64,7 @@ dovrà:
  1. Utilizzare i vari strumenti per creare il territorio che si desidera. Infine premere fine.
 
 ### Layouts
-**SEZIONE IN LAVORAZIONE**
-Presto in quest'area si potranno creare i PDF finali dei territori
+In questa sezione si possono generare i PDF finiti dei territori. Per farlo basterà selezionare il giusto comune e territorio con cartina e premere il tasto "Genera PDF". Per ora c'è un solo design possibile di PDF, successivamente verranno inseriti diversi layout.
 
 ### Impostazioni
 In quest'area è possibile gestire i proclamatori (Aggiungere, Rimuovere o Rinominare) e i vari territori (Aggiungere 
