@@ -41,7 +41,8 @@ L'interfaccia di questa sezione è composta da:
 ### Statistiche
 In questa sezione il programma, una volta inserita la data in cui iniziano le registrazioni dei territori, la data 
 dell'ultima visita del CO (Sorvegliante), ed eventualmente la data di inizio e fine di una campagna, calcola tutte 
-le statistiche di percorrenza e lavorazione di ogni comune e calcola anche i totali.
+le statistiche di percorrenza e lavorazione di ogni comune e calcola anche i totali. Inoltre dalla versione (v1.2.0) 
+nel riquadro in basso a destra si visualizzerà un grafico con le statistiche di percorrenza per semestre.
 
 ### Proclamatori
 In questa sezione vedi l'elenco dei proclamatori che ha almeno un territorio assegnato. Si visualizzarà quali e 
@@ -62,9 +63,7 @@ dovrà:
  1. Utilizzare il browser per navigare nella posizione desiderata per la modifica. Per maggiore precisione si potrà 
     premere "Shift" e con il tasto Sx del mouse selezionare l'area desiderata. Infine premere avanti.
  1. Utilizzare i vari strumenti per creare il territorio che si desidera. Infine premere fine.
-
-### Layouts
-In questa sezione si possono generare i PDF finiti dei territori. Per farlo basterà selezionare il giusto comune e territorio con cartina e premere il tasto "Genera PDF". Per ora c'è un solo design possibile di PDF, successivamente verranno inseriti diversi layout.
+Nell'ultimo aggiornamento (v1.2.0) è possibile anche generare i layouts PDF in questa sezione.
 
 ### Impostazioni
 In quest'area è possibile gestire i proclamatori (Aggiungere, Rimuovere o Rinominare) e i vari territori (Aggiungere 
