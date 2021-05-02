@@ -4,7 +4,7 @@
 Per installarlo basterà, dal menu release, scaricare l'installer. Il programma non necessita di librerie aggiuntive 
 o programmi di terze parti. Però per poterlo utilizzare sono necessarie queste caratteristiche:
  - OS: Windows (x64)
- - RAM: Min 2Gb, Cons 4Gb
+ - RAM: Min 1Gb, Cons 2Gb
  - CPU: Min i3 e corrispettiva AMD, Cons i5 e corrispettiva AMD
  - HDD: Min 500Mb, poi in base al numero dei territori (circa 1Mb-2Mb a territorio)
  - DISPLAY: Min HD per utilizzo solo per registri, Min FullHD per la creazione di cartine
@@ -49,14 +49,15 @@ nel riquadro in basso a destra si visualizzerà un grafico con le statistiche di
 In questa sezione vedi l'elenco dei proclamatori che ha almeno un territorio assegnato. Si visualizzarà quali e 
 quanti territori possiede attualmente.
 
-### Scadenze
-In questa sezione si visualizzerano i territori che dovrebbero essere consegnati a breve. Si visualizzerà il 
+### Scadenze & Giacenze
+In questa sezione si visualizzerano, nell'area superiore, i territori che dovrebbero essere consegnati a breve. Si visualizzerà il 
 proclamatore che ce l'ha in mano, da quanti giorni e l'urgenza:
  - Bassa: Da 60 a 90 giorni (2-3 mesi)
  - Media: Da 90 a 120 giorni (3-4 mesi)
  - Alta: Più di 120 giorni (4 mesi o più)
+Nell'area inferiore (dall'aggiornamento 1.2.4) si visualizzeranno invece i territori in giacenza in reparto. La colonna giorni indica da quanto tempo il territorio è stato consegnato. Quest'area può essere utile per capire quali territori hanno la precedenza nelle consegne oppure se un territorio ha bisogno ancora di tempo di fermo prima di essere dato ad un altro proclamatore.
 
-### Cartine
+### Cartine & Layouts
 Questa sezione permette di gestire le cartine per comune e l'inserimento di nuove. Per inserire una nuova cartina si 
 dovrà:
  1. Abilitare la propria connessione ad internet e selezionare il comune e il territorio obbiettivo
@@ -64,7 +65,7 @@ dovrà:
  1. Utilizzare il browser per navigare nella posizione desiderata per la modifica. Per maggiore precisione si potrà 
     premere "Shift" e con il tasto Sx del mouse selezionare l'area desiderata. Infine premere avanti.
  1. Utilizzare i vari strumenti per creare il territorio che si desidera. Infine premere fine.
-Nell'ultimo aggiornamento (v1.2.0) è possibile anche generare i layouts PDF in questa sezione.
+Dall'aggiornamento (v1.2.0) è possibile anche generare i layouts PDF in questa sezione.
 
 ### Impostazioni
 In quest'area è possibile gestire i proclamatori (Aggiungere, Rimuovere o Rinominare) e i vari territori (Aggiungere 
