@@ -20,7 +20,7 @@ inserimento e caricamento verranno generate diverse cartelle e files.
 Le cartelle generate saranno:
  - Registri territori: Al suo interno saranno presenti i PDF dei registri territori. (S-13.pdf)
  - Cartine: Cartella che contiene le cartine dei territori generate tramite app
- - Layout: Cartella contenente i latout finali dei territori inviabili agli utenti
+ - Layout: Cartella contenente i layout finali dei territori inviabili agli utenti
  - settings.dat: E' un file contenente i dati di impostazione dell'applicazione. Al suo interno contiene l'elenco 
    dei nomi dei proclamatori. Questo files non sarebbe da modificare per evitare di perdere tutti i dati 
    dell'applicazione.
