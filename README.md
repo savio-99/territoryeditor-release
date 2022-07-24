@@ -10,6 +10,10 @@ o programmi di terze parti. Però per poterlo utilizzare sono necessarie queste 
  - DISPLAY: Min HD per utilizzo solo per registri, Min FullHD per la creazione di cartine
 Per una migliore qualità prestazione nella generazione delle cartine si consiglia iniziare ad utilizzare il software dalla versione 1.2.0.
 
+Video Tutorial
+
+https://user-images.githubusercontent.com/38560551/180650598-b222708f-e50b-410c-970d-19fbc8867764.mp4
+
 ## Primo avvio
 All'avvio del software verrà prima di tutto richiesto di selezionare la cartella dove il programma dovrà operare. E' 
 preferibile selezionare una cartella in cloud, in questo modo tutti i dispositivi con la cartella sincronizzata e 
